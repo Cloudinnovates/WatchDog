@@ -1,0 +1,13 @@
+{
+    "name": "websiteconnect/watchdog",
+    "description": "Web Hosting Manager (WHM) and cPanel Alarm System",
+    "require": {
+        "zendframework/zend-mail": "2.3.*@dev",
+        "eresults/publicapi": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Greg Kappatos"            
+        }
+    ]
+}
